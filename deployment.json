@@ -1,0 +1,11 @@
+{
+  "account": "wakbowaa",
+  "network": "StudioNet",
+  "contractAddress": "0xc3E23176CA791Eb7EF54c6E788C4ABAc90e1AA64",
+  "deploymentTransaction": "0xc07d377fd379045f0f9aa3958af6924e8d09155aae5acc2804158067ce404af7",
+  "deploymentConsensus": "MAJORITY_AGREE",
+  "deploymentExecution": "SUCCESS",
+  "sourceSha256": "e44478ff0bda4e6782f6c8cdae6caf7d5c19588359a28c2461937e70ecb8c062",
+  "sourceCommit": "f89443c12597963a3557b6baad9d8af145cd6a18",
+  "repository": "https://github.com/wakbowaa/surplus-crossing"
+}

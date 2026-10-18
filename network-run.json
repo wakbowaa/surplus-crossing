@@ -1,0 +1,16 @@
+{
+  "recordType": "operator-created lifecycle fixture; not independent third-party evidence",
+  "recordId": "SURPLUS_CROSSING-1792366451",
+  "contractAddress": "0xc3E23176CA791Eb7EF54c6E788C4ABAc90e1AA64",
+  "transaction": "0x7ff3ca59bd70a8e90b277932c5699ae33cb688a6b03b38cd44e7afe435bfd123",
+  "readback": {
+    "charter_url": "https://www.fao.org/platform-food-loss-waste/en/",
+    "digests": [],
+    "host": "0xad9c2fEc8a74efa02364A780BAd1936e255C3C25",
+    "id": "SURPLUS_CROSSING-1792366451",
+    "listings": [],
+    "matches": [],
+    "normalized": [],
+    "state": "OPEN"
+  }
+}
